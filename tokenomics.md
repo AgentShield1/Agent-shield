@@ -1,6 +1,7 @@
 
 # **Tokenomics Shield**
-![image](https://github.com/user-attachments/assets/cf668c90-d006-429c-8c9a-630668c4a781)
+![image](https://github.com/user-attachments/assets/c1cd927b-e35e-41ae-83c0-46e70b88325f)
+
 ## **Overview**
 The Tokenomics for Shield is designed to ensure sustainability, foster community participation, and maintain fair distribution. Below is the breakdown of token allocation, represented in the pie chart:
 
@@ -29,7 +30,8 @@ The Tokenomics for Shield is designed to ensure sustainability, foster community
 ---
 
 ## **Chart**
-![image](https://github.com/user-attachments/assets/cf668c90-d006-429c-8c9a-630668c4a781)
+![image](https://github.com/user-attachments/assets/b9b67a76-35cc-41aa-b14b-7b7d3cd70768)
+
 
 ---
 
