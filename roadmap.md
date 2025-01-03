@@ -13,7 +13,7 @@ SHIELD Agent is a cutting-edge AI-driven bot for cryptocurrency and AI agent mar
    - Create a professional platform to showcase features and attract users.
 
 3. **Tokenomics**  
-   - Launch on the Virtual Protocol with only 3% of supply available for public purchase.  
+   - Launch on the Pumpfun with only 3% of supply available for public purchase.  
    - Implement a burn-and-buyback mechanism for every 100% market cap increase in 24 hours.
 
 4. **Community Rewards**  
